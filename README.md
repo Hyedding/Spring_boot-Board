@@ -24,10 +24,6 @@ CRUD의 기본 개념을 익히기 위해 게시판 제작을 했습니다.
 
 ![image](https://github.com/Hyedding/Spring_boot-Board/assets/155518059/ada9b726-fdce-40c9-90c9-059c9b810b6f)
 
-![image](https://github.com/Hyedding/Spring_boot-Board/assets/155518059/e0a53941-8f92-4782-950e-7b780b0008d4)
-
-![image](https://github.com/Hyedding/Spring_boot-Board/assets/155518059/8501e330-f96c-478a-b017-dbba703a0876)
-
 ![image](https://github.com/Hyedding/Spring_boot-Board/assets/155518059/982eef59-9fef-4100-88b6-936a4b67f8ac)
 
 ![image](https://github.com/Hyedding/Spring_boot-Board/assets/155518059/77d3022c-50b1-4881-9cba-4467efc04d08)
