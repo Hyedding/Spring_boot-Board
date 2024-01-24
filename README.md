@@ -41,15 +41,15 @@ CRUD의 기본 개념을 익히기 위해 게시판 제작을 했습니다.
 
 # 데이터베이스
 
-tb_post
+**tb_post**
 ![image](https://github.com/Hyedding/Spring_boot-Board/assets/155518059/6c43aab7-fa69-4056-93af-07e48f68c60d)
 
-tb_comment
+**tb_comment**
 ![image](https://github.com/Hyedding/Spring_boot-Board/assets/155518059/bd8f6143-de09-4940-94bf-aebf3f41922f)
 
-tb_member
+**tb_member**
 ![image](https://github.com/Hyedding/Spring_boot-Board/assets/155518059/70a3c1d1-b47a-497b-b1e7-2125b06a506c)
 
-tb_file
+**tb_file**
 ![image](https://github.com/Hyedding/Spring_boot-Board/assets/155518059/fe617562-50c5-48b2-9379-b209dc927ef7)
 
